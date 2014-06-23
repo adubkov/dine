@@ -1,0 +1,21 @@
+{
+  "name": "dine-api",
+  "version": "0.0.1",
+  "private": "true",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.X.X",
+    "morgan": "*",
+    "serve-favicon": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "serve-static": "*",
+    "errorhandler": "*",
+    "jade": "*",
+    "less-middleware": "*",
+    "mysql": "2.X",
+    "when": "2.6.X"
+  }
+}
